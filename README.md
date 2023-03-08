@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhilkarve
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m interested in Full-Stack Development.
 - 🌱 I’m currently pursuing MS in CS at GSU.
 - 💞️ I’m looking to collaborate on JavaScript Projects.
 - 📫 How to reach me: karvenikhil26@gmail.com
