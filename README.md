@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikhilkarve
-- 👀 I’m interested in Full-Stack Development.
-- 🌱 I’m currently pursuing MS in CS at GSU.
-- 💞️ I’m looking to collaborate on JavaScript Projects.
+- 👀 I’m a backend developer at TSYS.
+- 💞️ I primarily work with and currently learning Java, Spring Boot, Kafka.
 - 📫 How to reach me: karvenikhil26@gmail.com
 
 <!---
